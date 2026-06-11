@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local SFTP runtime data
+sftp-root/
+ssh_host_*_key
+ssh_host_*_key.pub
+*.password
+.env
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
