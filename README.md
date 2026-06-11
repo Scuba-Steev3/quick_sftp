@@ -876,28 +876,6 @@ Before exposing this service beyond localhost:
 
 ---
 
-## License
-
-Add your preferred license here.
-
-Common choices:
-
-- MIT
-- Apache-2.0
-- BSD-3-Clause
-
-Example:
-
-```text
-MIT License
-
-Copyright (c) YEAR YOUR NAME
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
-```
-
----
-
 ## Disclaimer
 
 Use this tool only on systems and networks where you are authorized to operate it. You are responsible for complying with applicable laws, policies, and organizational security requirements.
